@@ -1,0 +1,19 @@
+# Print source & output test files
+*.pdf
+*.tif
+*.tiff
+*.tmp
+test/
+start.txt
+
+# Local Ghostscript binaries (if bundled locally)
+engine/
+
+# Build & IDE artifacts
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+.vs/
+*.user
